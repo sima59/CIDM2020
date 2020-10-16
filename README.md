@@ -1,5 +1,5 @@
 # CIDM2020
-This related to fall semester
+This related to fall semester.
 I received the error message when wanted to activate my venv. when I watched walk through video I changed my command to source /c/users/lg/envs/bookmarks/Scripts/activate and it worked fine. But still I can't use manage.py in a Vsc. It works in Powershell.
 $ python manage.py runserver
 C:\ProgramData\Miniconda3\python.exe: can't open file 'manage.py': [Errno 2] No such file or directory 
